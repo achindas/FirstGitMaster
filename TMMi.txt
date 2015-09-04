@@ -1,0 +1,54 @@
+- SE Governance - Quality governance
+- Requirements can be developed and tested in continuous manner
+- provision of test environment
+- UAT environment is not having all interfaces as in production. Causes defects to leak
+- DevOps: Test in production like environment with prod like data
+- 
+
+
+
+- Login to Cloud
+- Approval of framework
+- CCQ data availability
+
+
+
+Transition:
+
+- Onsite: Reduce from 2 B8 to 1 B8 and 1 B7
+- 
+
+
+- Why sleep is being used?
+
+
+- Specific 
+
+- Performance testing in Cloud
+- Client Logo
+- benefits delivered
+- For Telco industry
+- Scenarios 
+
+
+
+- State our plan to certify & skill people in Oral preso
+- Legal wording for non-meeting TMMI L5 to be documented
+
+- 
+
+
+- Move the template to Narlyn has sent
+- Chart #3: Merge Andreas' content into this chart. Plus key items from SOC
+- Chart #4-5 : Praveen to provide
+- Chart SLA: Send a sample
+- 
+
+
+SBD:
+- Is the Staffing Plan correct?
+- The Governance Roles are not shown in any table
+- Trainision Resource Rampup numbers to be aligned with latest Staffing Plan
+- Transition Team Staffing plan is old
+- 
+
